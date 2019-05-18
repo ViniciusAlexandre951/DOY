@@ -12,8 +12,6 @@ import android.widget.TextView;
 
 
 public class MainActivity extends AppCompatActivity {
-    private FirebaseAuth firebaseAuth;
-    private FirebaseAuth.AuthStateListener authStateListener;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
